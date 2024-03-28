@@ -1,6 +1,6 @@
 username,password_digest,role,address
 dkmyp@example.com,$2a$12$PKfPEj4yyJZRnHmEiu9xKOIoOBQERsAZ6OgAAovv2xrRIvJRzY6am,user,111 Main Street, Anywhere, VA. 22901
-admin2@example.com,$2a$12$06oU2j5b2k/vozucaI0BWeTcKbAWB4rz72Y1BrW3y/2IQwoIcf1RW,admin,111 Main Street, Anywhere, VA. 22901
-admin3@example.com,$2a$12$1PsEZA75RwoYNxkzTYKo6.awy5cpJrqM4zb/hg8IrqjLqxy0D0SMS,admin,111 Main Street, Anywhere, VA. 22901
-admin@example.com,$2a$12$2fZDOzPvm9zXqu3k.5imNufN6nUs4H5QOF9XUEKvR8yVDJ1uWzur.,admin,113 Fooville, Anywhere, MD. 22807
-soandso@example.com,$2a$12$mYp9O9Woq/8ZeOe6RGku3O9lCzTklLIwJvbjIemlQ19id.Srd9rCm,user,334 Main Street, Anywhere, VA. 22309
+admin2@example.com,$2a$12$lWut7QefqxfIi.RHZc8fku/MJw395QER8wigciQTy1JHdDpppaR7S,admin,111 Main Street, Anywhere, VA. 22901
+admin3@example.com,$2a$12$rKuKn//KHWUlI4SeoQRK.ebuVsLWGFMplvxX9XneKLe6MxKcOqp0S,admin,111 Main Street, Anywhere, VA. 22901
+admin@example.com,$2a$12$AmRkbbdV0aQh1PY6iVvGJOd8Ud30H5I5N6egbTC4t/jZCYa/xRhIi,admin,113 Fooville, Anywhere, MD. 22807
+soandso@example.com,$2a$12$vUxn6Zk.hnwCM.yoIdLNguPPhr/5fHQFyVqH.r3sTj2tXA7F/fIvW,user,334 Main Street, Anywhere, VA. 22309
